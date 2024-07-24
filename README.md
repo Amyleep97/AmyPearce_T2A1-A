@@ -43,10 +43,10 @@
 
 ## Q12. Conduct research into a web application (app) and answer each of the following sub-questions:
 
-- List and describe the software (tech stack) used by the app. 
-- Describe or make educated guesses about the hardware used to host the app.
-- Describe the interaction of technologies within the app.
-- Describe the way data is structured within the app’s database(s).
-- Identify the entities/tables that are tracked within the app’s database(s).
-- Identify the relationships and associations between the entities/tables identified in sub-question E.
-- Design an entity relationship diagram (ERD) based on the answers provided to sub-questions E and F. This must represent a relational database model, even if the app itself uses something other than a relational database model.
+1. List and describe the software (tech stack) used by the app. 
+2. Describe or make educated guesses about the hardware used to host the app.
+3. Describe the interaction of technologies within the app.
+4. Describe the way data is structured within the app’s database(s).
+5. Identify the entities/tables that are tracked within the app’s database(s).
+6. Identify the relationships and associations between the entities/tables identified in sub-question E. (question 5)
+7. Design an entity relationship diagram (ERD) based on the answers provided to sub-questions E and F(Question 5 and 6) This must represent a relational database model, even if the app itself uses something other than a relational database model.
